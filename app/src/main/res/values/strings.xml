@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EJ_11_Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rbtn1">La conoces?</string>
+    <string name="rbtn2">No la conoces</string>
+    <string name="btn_cerrar">Cerrar App</string>
+</resources>
